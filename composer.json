@@ -1,7 +1,8 @@
 {
 	"name": "joshmoody/library-skeleton",
 	"type": "library",
-	"description": "",
+	"license": "MIT",
+	"description": "Skeleton for building PHP libraries. It is pre-configured for use with Composer, PHPUnit, and CodeSniffer. These three items should be in every PHP Library.",
 
 	"authors":[
 		{
