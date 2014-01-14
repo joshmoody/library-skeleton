@@ -4,7 +4,7 @@ Skeleton for building PHP libraries. It is pre-configured for use with Composer,
 
 ## Installing
 
-	$ composer create-project joshmoody/LibrarySkeleton
+	$ composer create-project joshmoody/library-skeleton
 
 ## Contributing
 
