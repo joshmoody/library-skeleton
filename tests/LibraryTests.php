@@ -1,7 +1,7 @@
 <?php
 namespace joshmoody\Library\Tests;
 
-use joshmoody\Library;
+use joshmoody\Library\FooBar;
 
 class LibraryTests extends \PHPUnit_Framework_TestCase
 {
@@ -9,7 +9,7 @@ class LibraryTests extends \PHPUnit_Framework_TestCase
 	
 	public function __construct()
 	{
-		$this->instance = new Library();
+		$this->instance = new FooBar();
 	}
 	
 	public function testFooShouldReturnBar()

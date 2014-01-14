@@ -2,7 +2,7 @@
 
 namespace joshmoody\Library;
 
-class Library
+class FooBar
 {
 	public function __construct()
 	{
