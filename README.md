@@ -4,7 +4,9 @@ Skeleton for building PHP libraries. It is pre-configured for use with Composer,
 
 ## Installing
 
-	$ composer create-project joshmoody/library-skeleton
+Installation is easy with Composer. If you aren't familiar with the Composer Dependency Manager for PHP, [you should read this first](https://getcomposer.org/doc/00-intro.md).
+
+	$ composer create-project joshmoody/library-skeleton your-project-name
 
 ## Contributing
 
