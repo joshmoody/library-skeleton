@@ -17,9 +17,9 @@ class LibraryTests extends \PHPUnit_Framework_TestCase
 		$this->assertEquals('bar', $this->instance->foo('bar'));
 	}
 
-    /**
-     * @expectedException \InvalidArgumentException
-     */	
+	/**
+	 * @expectedException \InvalidArgumentException
+	 */
 	public function testMissingParamShouldThrowException()
 	{
 		$result = $this->instance->foo();
